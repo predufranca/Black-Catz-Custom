@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Syncopate:wght@400;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.syncopate {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Syncopate', sans-serif;
+}
